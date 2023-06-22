@@ -5,4 +5,5 @@ In this exercise, you will use the Express generator to scaffold out an Express 
 - Generating an Express application using the express-generator
 - Modify the Express application to support the REST API by adding routes
 
-
+### Demo
+![MDemo gif](image link)
