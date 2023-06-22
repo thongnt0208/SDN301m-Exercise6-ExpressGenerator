@@ -6,4 +6,4 @@ In this exercise, you will use the Express generator to scaffold out an Express 
 - Modify the Express application to support the REST API by adding routes
 
 ### Demo
-![MDemo gif](image link)
+![demo gif](https://github.com/thongnt0208/SDN301m-Exercise6-ExpressGenerator/blob/main/demo/demo.gif?raw=true)
